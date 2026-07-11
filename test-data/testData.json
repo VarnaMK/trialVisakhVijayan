@@ -1,0 +1,20 @@
+{
+  "users": {
+    "admin": {
+      "email": "admin@example.com",
+      "password": "changeme"
+    },
+    "standard": {
+      "email": "user@example.com",
+      "password": "changeme"
+    }
+  },
+  "urls": {
+    "home": "/",
+    "login": "/login"
+  },
+  "timeouts": {
+    "default": 30000,
+    "navigation": 60000
+  }
+}
